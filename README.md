@@ -1,2 +1,2 @@
 # Connect-4
-Connect
+Connect 4 project with the aim to use AI
